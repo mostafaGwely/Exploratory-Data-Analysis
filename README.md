@@ -12,3 +12,10 @@ or using classification models with output from 3 to 9
 The project work took me more time than I previously estimated
 
 It took time to choose the best corresponding plots and to detect the variables that influence quality. I had to examine each variable separatly while not forgetting the whole picture which I found really challenging and exciting.
+
+# screenshots
+
+![](https://github.com/mostafaGwely/Exploratory-Data-Analysis/blob/master/1.png)
+![](https://github.com/mostafaGwely/Exploratory-Data-Analysis/blob/master/2.png)
+![](https://github.com/mostafaGwely/Exploratory-Data-Analysis/blob/master/3.png)
+![](https://github.com/mostafaGwely/Exploratory-Data-Analysis/blob/master/4.png)
